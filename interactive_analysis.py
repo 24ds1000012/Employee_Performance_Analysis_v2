@@ -1,5 +1,3 @@
-# interactive_analysis.py
-# Author: Data Scientist
 # 24ds1000012@ds.study.iitm.ac.in
 # Purpose: Demonstrate interactive, self-documenting data analysis in Marimo
 
@@ -85,4 +83,5 @@ def __(slope_slider):
 
 if __name__ == "__main__":
     app.run()
+
 
